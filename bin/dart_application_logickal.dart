@@ -14,7 +14,9 @@ void main() {
     -875,
     33,
     -1904,
-    56078
+    56078,
+    -10000,
+    245243
   ];
   var numberplus = 0;
   var numberminus = 0;
